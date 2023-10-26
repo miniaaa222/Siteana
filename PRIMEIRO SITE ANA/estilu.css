@@ -1,0 +1,29 @@
+body {
+    color:#bf46ef;
+    background-color: #bf46ef;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+    text-align: center;
+}
+
+a {
+    color: beige;
+    text-decoration: none;
+}
+
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
